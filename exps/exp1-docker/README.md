@@ -1,3 +1,9 @@
+# 常见问题
+- 资源锁问题
+ https://www.csdn.net/tags/MtTaIgwsMDY1OTQtYmxvZwO0O0OO0O0O.html
+ 
+- 镜像安装路径问题
+vbox和镜像路径不要有中文
 
 # 作业提交地址
 
